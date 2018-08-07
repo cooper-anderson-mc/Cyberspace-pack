@@ -1,0 +1,89 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.4.2747",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Cyberspace",
+  "version": "1.0",
+  "author": "titanknox",
+  "files": [
+    {
+      "projectID": 282001,
+      "fileID": 2581129,
+      "required": true
+    },
+    {
+      "projectID": 296901,
+      "fileID": 2579623,
+      "required": true
+    },
+    {
+      "projectID": 297250,
+      "fileID": 2578503,
+      "required": true
+    },
+    {
+      "projectID": 242818,
+      "fileID": 2597168,
+      "required": true
+    },
+    {
+      "projectID": 243883,
+      "fileID": 2594241,
+      "required": true
+    },
+    {
+      "projectID": 228756,
+      "fileID": 2533664,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 2591543,
+      "required": true
+    },
+    {
+      "projectID": 240630,
+      "fileID": 2497186,
+      "required": true
+    },
+    {
+      "projectID": 243478,
+      "fileID": 2589773,
+      "required": true
+    },
+    {
+      "projectID": 228815,
+      "fileID": 2525230,
+      "required": true
+    },
+    {
+      "projectID": 228816,
+      "fileID": 2530225,
+      "required": true
+    },
+    {
+      "projectID": 250363,
+      "fileID": 2573417,
+      "required": true
+    },
+    {
+      "projectID": 243121,
+      "fileID": 2573421,
+      "required": true
+    },
+    {
+      "projectID": 247408,
+      "fileID": 2588336,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
