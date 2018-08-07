@@ -11,8 +11,9 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Cyberspace",
-  "version": "1.0",
+  "version": "1.1",
   "author": "titanknox",
+  "projectID": 300202,
   "files": [
     {
       "projectID": 282001,
